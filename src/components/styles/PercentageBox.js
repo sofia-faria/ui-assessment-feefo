@@ -8,13 +8,13 @@ export const StyledPercentageBox = styled.div`
     padding: 20px;
   }
 
-  #desc{
+  .desc{
     color: #838383;
     font-weight: 500;
     margin: 0;
   }
 
-  #perc{
+  .perc{
     color: #22ab55;
     font-weight: 700;
     font-size: xxx-large;

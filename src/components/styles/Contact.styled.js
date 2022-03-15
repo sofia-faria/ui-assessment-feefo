@@ -16,23 +16,23 @@ export const StyledContact = styled.div`
     font-weight: 700;
   }
 
-  #title{
+  .title{
     color: #9c9999;
   }
 
-  #initial{
+  .initial{
     text-align: center;
     line-height: 8px;
   }
 
-  #support{
+  .name{
     display: block;
     text-align: initial;
     color: #514e4f;
     font-weight: 700;
   }
 
-  #email{
+  .email{
     flex-direction: initial;
     padding-right: 15px;
     color: #838383;

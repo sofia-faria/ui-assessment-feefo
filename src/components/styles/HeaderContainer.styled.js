@@ -15,7 +15,7 @@ export const HeaderContainer = styled.div`
     margin-top: 0;
   }
 
-  #headerTitle {
+  #header {
     align-self:center;
   }
 `

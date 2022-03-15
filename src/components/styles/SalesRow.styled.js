@@ -24,13 +24,13 @@ export const SalesRow = styled.div`
     position: relative;
   }
 
-  #salesTitle{
+  .salesTitle{
     font-weight: 700;
     color: #383838;
     height: fit-content;
   }
 
-  #salesDesc{
+  .salesDesc{
     color: #838383;
   }
 `

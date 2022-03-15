@@ -10,8 +10,5 @@ export const StyledBox = styled.div`
   grid-template-areas:
       'sales sales'
       'uploads lines';
-  // display: grid;
-  // grid-template-columns: 1fr 1fr;
-  // grid-gap: 20px;
   border-radius: 4px;
 `
